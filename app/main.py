@@ -24,7 +24,7 @@ CONFIG_YAML = {
 
 
 class Main:
-    def __init__(self, input_path: str, dataset_dir: str, video_stride: int = 60):
+    def __init__(self, input_path: str, dataset_dir: str, video_stride: int = 30):
         self.input_path = Path(input_path)
         self.dataset_dir = Path(dataset_dir)
         self.stride = video_stride

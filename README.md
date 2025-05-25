@@ -3,6 +3,12 @@ OpenSfM ![Docker workflow](https://github.com/mapillary/opensfm/workflows/Docker
 
 ## 360 Video Primer
 
+Use the `--recursive` flag to check out this repository including its submodules.
+
+```bash
+git clone https://github.com/RomanStadlhuber/OpenSfM-360.git
+```
+
 For a quick start set a `DATA_DIR` (absolute path, e.g. `/data`), then do
 
 ```bash
