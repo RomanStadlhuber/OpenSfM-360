@@ -10,6 +10,8 @@
 !data/lund/images
 !doc
 !LICENSE
+# for some reason needed by the build process?
+!README.md
 !opensfm
 !requirements.txt
 !setup.cfg
