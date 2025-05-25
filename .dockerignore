@@ -11,11 +11,11 @@
 !doc
 !LICENSE
 !opensfm
-!README.md
 !requirements.txt
 !setup.cfg
 !setup.py
 !viewer
+!app/
 
 # Picking exceptions
 doc/build
